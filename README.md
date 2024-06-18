@@ -63,6 +63,7 @@ If you find this work helpful for your research, please consider citing:
   title={Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts},
   author={Chen, Jiayi and Ma, Benteng and Cui, Hengfei and Xia, Yong},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11439--11449},
   year={2024}
 }
 ```
